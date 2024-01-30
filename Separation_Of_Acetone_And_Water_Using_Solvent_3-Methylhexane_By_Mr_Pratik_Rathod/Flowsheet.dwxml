@@ -4,7 +4,7 @@
     <BuildVersion>8.6.5.0</BuildVersion>
     <BuildDate>2000-01-06T00:00:00</BuildDate>
     <OSInfo>Microsoft Windows 11 Home Single Language, Version 10.0.22621.0, Win32NT Platform</OSInfo>
-    <SavedOn>2023-11-13T20:39:22.014771+05:30</SavedOn>
+    <SavedOn>2024-01-22T14:41:52.8927642+05:30</SavedOn>
     <SavedFromClassicUI>true</SavedFromClassicUI>
   </GeneralInfo>
   <SimulationObjects>
@@ -8396,7 +8396,7 @@
       </FlashSettings>
     </SelectedPropertyPackage>
     <SimulationMode></SimulationMode>
-    <BackupFileName>86822447.dwbcs</BackupFileName>
+    <BackupFileName>52647203.dwbcs</BackupFileName>
     <FilePath>C:\Users\prati\OneDrive\Documents\Flowsheet.dwxml</FilePath>
     <FlowsheetQuickConnect>false</FlowsheetQuickConnect>
     <FlowsheetShowCalculationQueue>false</FlowsheetShowCalculationQueue>
@@ -8996,8 +8996,8 @@
       <Name>MAT-5da372cf-beda-4763-98f1-cd86c5e18f47</Name>
       <Tag>Make-up</Tag>
       <Width>20</Width>
-      <X>316.5341</X>
-      <Y>171.1067</Y>
+      <X>640.4414</X>
+      <Y>256.959</Y>
       <Selected>false</Selected>
       <Rotation>0</Rotation>
       <DrawMode>2</DrawMode>
@@ -9043,8 +9043,8 @@
       <Name>MAT-db971471-1e8a-42d3-ad06-be461cacea57</Name>
       <Tag>Solvent Recovery</Tag>
       <Width>20</Width>
-      <X>291.0338</X>
-      <Y>100.0568</Y>
+      <X>614.9404</X>
+      <Y>185.909</Y>
       <Selected>false</Selected>
       <Rotation>0</Rotation>
       <DrawMode>2</DrawMode>
@@ -9090,8 +9090,8 @@
       <Name>MAT-9f510731-7729-4083-8c48-1c157b4ee026</Name>
       <Tag>Feed</Tag>
       <Width>20</Width>
-      <X>377.7682</X>
-      <Y>43.2431</Y>
+      <X>701.6755</X>
+      <Y>129.0954</Y>
       <Selected>false</Selected>
       <Rotation>0</Rotation>
       <DrawMode>2</DrawMode>
@@ -9137,8 +9137,8 @@
       <Name>MIST-ae80e666-b984-4270-b427-05f406124fe0</Name>
       <Tag>MIX-1</Tag>
       <Width>20</Width>
-      <X>370.8485</X>
-      <Y>145.0467</Y>
+      <X>694.7557</X>
+      <Y>230.8991</Y>
       <Selected>false</Selected>
       <Rotation>0</Rotation>
       <DrawMode>2</DrawMode>
@@ -9189,8 +9189,8 @@
       <Name>MAT-d392d3ff-4a01-47c1-b8cd-45262f2172dd</Name>
       <Tag>S-01</Tag>
       <Width>20</Width>
-      <X>420.3714</X>
-      <Y>155.4365</Y>
+      <X>744.2786</X>
+      <Y>241.2887</Y>
       <Selected>false</Selected>
       <Rotation>0</Rotation>
       <DrawMode>2</DrawMode>
@@ -9237,8 +9237,8 @@
       <Name>COUO-45389e0d-86e2-4adc-bdcc-54b7f8d38694</Name>
       <Tag>EDC-01</Tag>
       <Width>144</Width>
-      <X>477.2569</X>
-      <Y>25.74233</Y>
+      <X>801.1638</X>
+      <Y>111.5946</Y>
       <Selected>false</Selected>
       <Rotation>0</Rotation>
       <DrawMode>2</DrawMode>
@@ -9286,8 +9286,8 @@
       <Name>MAT-03b2c90d-8474-4909-bef0-39eb7b0a6f41</Name>
       <Tag>S-02</Tag>
       <Width>20</Width>
-      <X>653.9861</X>
-      <Y>42.16959</Y>
+      <X>977.8931</X>
+      <Y>128.0219</Y>
       <Selected>false</Selected>
       <Rotation>0</Rotation>
       <DrawMode>2</DrawMode>
@@ -9333,8 +9333,8 @@
       <Name>MAT-8ab81e9e-3fe4-4e3e-826a-a4926c947b0b</Name>
       <Tag>Water</Tag>
       <Width>20</Width>
-      <X>638.2234</X>
-      <Y>224.5327</Y>
+      <X>962.1305</X>
+      <Y>310.3851</Y>
       <Selected>false</Selected>
       <Rotation>0</Rotation>
       <DrawMode>2</DrawMode>
@@ -9381,8 +9381,8 @@
       <Name>COUO-1ea327c9-e43b-4061-8522-62cdfff084b8</Name>
       <Tag>DC-01</Tag>
       <Width>144</Width>
-      <X>720.1278</X>
-      <Y>42.01218</Y>
+      <X>1044.035</X>
+      <Y>127.8646</Y>
       <Selected>false</Selected>
       <Rotation>0</Rotation>
       <DrawMode>2</DrawMode>
@@ -9429,8 +9429,8 @@
       <Name>MAT-8945f5e3-1173-41b4-b25e-51fbfe116943</Name>
       <Tag>Acetone</Tag>
       <Width>20</Width>
-      <X>925.4</X>
-      <Y>48.04378</Y>
+      <X>1249.308</X>
+      <Y>133.8961</Y>
       <Selected>false</Selected>
       <Rotation>0</Rotation>
       <DrawMode>2</DrawMode>
@@ -9476,8 +9476,8 @@
       <Name>MAT-af8600c0-de0b-4e76-9a4a-33d7f0877225</Name>
       <Tag>3-Methylhexane</Tag>
       <Width>20</Width>
-      <X>891.114</X>
-      <Y>228.9925</Y>
+      <X>1215.021</X>
+      <Y>314.8448</Y>
       <Selected>false</Selected>
       <Rotation>0</Rotation>
       <DrawMode>2</DrawMode>
@@ -9523,8 +9523,8 @@
       <Name>RESF-26c14620-b257-493a-b6d0-b997b40f8564</Name>
       <Tag>CL-01</Tag>
       <Width>25</Width>
-      <X>742.8982</X>
-      <Y>278.1421</Y>
+      <X>1066.806</X>
+      <Y>363.9943</Y>
       <Selected>false</Selected>
       <Rotation>180</Rotation>
       <DrawMode>2</DrawMode>
@@ -9571,8 +9571,8 @@
       <Name>EN-2eb2db7b-af40-4a5c-a854-e65a6bf3c9bd</Name>
       <Tag>E-01</Tag>
       <Width>20</Width>
-      <X>764.0726</X>
-      <Y>315.2731</Y>
+      <X>1087.98</X>
+      <Y>401.1252</Y>
       <Selected>false</Selected>
       <Rotation>0</Rotation>
       <DrawMode>2</DrawMode>
@@ -9618,8 +9618,8 @@
       <Name>MAT-7163e870-a957-43da-8cc9-c5c97bbddd42</Name>
       <Tag>S-03</Tag>
       <Width>20</Width>
-      <X>640.9811</X>
-      <Y>288.7796</Y>
+      <X>964.8884</X>
+      <Y>374.6318</Y>
       <Selected>false</Selected>
       <Rotation>181</Rotation>
       <DrawMode>2</DrawMode>
@@ -9665,8 +9665,8 @@
       <Name>REC-7dbf1e49-f6cb-48da-811b-811ed0e42b1f</Name>
       <Tag>R-1</Tag>
       <Width>20</Width>
-      <X>411.9529</X>
-      <Y>261.9022</Y>
+      <X>735.8597</X>
+      <Y>347.7545</Y>
       <Selected>false</Selected>
       <Rotation>180</Rotation>
       <DrawMode>2</DrawMode>
@@ -9684,14 +9684,33 @@
     <GraphicObject>
       <Type>DWSIM.Drawing.SkiaSharp.GraphicObjects.Tables.MasterTableGraphic</Type>
       <ClipboardData>Master Property Table
-Object	Water	Solvent Recovery	Make-up	Feed	Acetone	3-Methylhexane
-Temperature	12.3335	25	25	25	57.7331	95.7602	C
-Pressure	1.01325	1.01325	1.01325	1.01325	1.01325	1.01325	bar
-Mass Flow	20.0582	173.272	150	100	215.979	173.272	kg/h
-Molar Flow	1.06482	2.80861	1.49698	2.62831	2.80861	2.80861	kmol/h
-Volumetric Flow	0.0201646	0.215989	0.219095	0.113715	0.304737	0.231667	m3/h
-Molar Enthalpy (Mixture)	-973.015	7.79216	14.8297	413.471	7172.99	11464.7	kJ/kmol
-Molar Entropy (Mixture)	-3.4083	0.026135	0.0497392	1.38679	21.6783	31.0771	kJ/[kmol.K]
+Object	Water	Solvent Recovery	S-03	S-02	S-01	Make-up	Feed	Acetone	3-Methylhexane
+Temperature	12.3335	25	25	61.0551	25.0011	25	25	57.7331	95.7602	C
+Pressure	1.01325	1.01325	1.01325	1.01325	1.01325	1.01325	1.01325	1.01325	1.01325	bar
+Mass Flow	20.0582	173.272	173.272	389.252	309.31	150	100	215.979	173.272	kg/h
+Molar Flow	1.06482	2.80861	2.80861	5.61721	4.05372	1.49698	2.62831	2.80861	2.80861	kmol/h
+Volumetric Flow	0.0201646	0.215989	0.215989	0.526433	0.410688	0.219095	0.113715	0.304737	0.231667	m3/h
+Density (Vapor)	0	0	0	0	0	0	0	0	0	kg/m3
+Molecular Weight (Vapor)	0	0	0	0	0	0	0	0	0	kg/kmol
+Dynamic Viscosity (Vapor)	0	0	0	0	0	0	0	0	0	Pa.s
+Heat Capacity (Vapor)	0	0	0	0	0	0	0	0	0	kJ/[kg.K]
+Compressibility Factor (Vapor)	0	0	0	0	0	0	0	0	0	
+Molar Fraction (Vapor)	0	0	0	0	0	0	0	0	0	
+Mass Fraction (Vapor)	0	0	0	0	0	0	0	0	0	
+Volumetric Fraction (Vapor)	0	0	0	0	0	0	0	0	0	
+Density (Liquid 1)	994.725	802.227	802.227	739.414	753.15	684.636	879.388	708.74	747.936	kg/m3
+Molar Weight (Liquid 1)	18.8371	61.6934	61.6934	69.2963	76.3027	100.202	38.0472	76.8992	61.6934	kg/kmol
+Dynamic Viscosity (Liquid 1)	0.00122402	0.000605165	0.000605165	0.000293164	0.000507337	0.000347326	0.000602427	0.00025203	0.000233766	Pa.s
+Heat Capacity (Liquid 1)	0	0	0	0	0	0	0	0	0	kJ/[kg.K]
+Molar Fraction (Liquid 1)	1	1	1	1	1	1	1	1	1	
+Mass Fraction (Liquid 1)	1	1	1	1	1	1	1	1	1	
+Volumetric Fraction (Liquid 1)	1	1	1	1	1	1	1	1	1	
+Molar Fraction (Vapor)  /  Acetone	2.12621E-12	1.07349E-12	1.07349E-12	0.731687	6.69034E-13	0	0.897742	0.754535	4.7154E-13	
+Molar Fraction (Liquid 1)  /  Acetone	9.39876E-15	2.19234E-14	2.19234E-14	0.233952	1.77051E-14	0	0.5	0.467904	2.19234E-14	
+Molar Fraction (Vapor)  /  Water	0.97027	0.253471	0.253471	0.0630818	0.136373	0	0.102258	0.0127444	0.402308	
+Molar Fraction (Liquid 1)  /  Water	0.99	0.46855	0.46855	0.256136	0.290792	0	0.5	0.0437225	0.46855	
+Molar Fraction (Vapor)  /  3-methylhexane	0.0297297	0.746529	0.746529	0.205231	0.863627	1	0	0.232721	0.597692	
+Molar Fraction (Liquid 1)  /  3-methylhexane	0.01	0.53145	0.53145	0.509912	0.709208	1	0	0.488374	0.53145	
 </ClipboardData>
       <NumberOfLines>1</NumberOfLines>
       <Padding>4</Padding>
@@ -9703,6 +9722,9 @@ Molar Entropy (Mixture)	-3.4083	0.026135	0.0497392	1.38679	21.6783	31.0771	kJ/[k
       <SortedList>
         <Item>Water</Item>
         <Item>Solvent Recovery</Item>
+        <Item>S-03</Item>
+        <Item>S-02</Item>
+        <Item>S-01</Item>
         <Item>Make-up</Item>
         <Item>Feed</Item>
         <Item>Acetone</Item>
@@ -9715,7 +9737,7 @@ Molar Entropy (Mixture)	-3.4083	0.026135	0.0497392	1.38679	21.6783	31.0771	kJ/[k
       <GradientMode>true</GradientMode>
       <LineColor>#fffa8072</LineColor>
       <LineColorDark>#fff5f5f5</LineColorDark>
-      <Fill>false</Fill>
+      <Fill>true</Fill>
       <FillColor>#ffd3d3d3</FillColor>
       <FillColorDark>#ffffffff</FillColorDark>
       <GradientColor1>#ffd3d3d3</GradientColor1>
@@ -9734,13 +9756,13 @@ Molar Entropy (Mixture)	-3.4083	0.026135	0.0497392	1.38679	21.6783	31.0771	kJ/[k
       <ShapeOverride>DefaultShape</ShapeOverride>
       <Status>NotCalculated</Status>
       <AutoSize>true</AutoSize>
-      <Height>162</Height>
+      <Height>504</Height>
       <IsConnector>false</IsConnector>
       <Name>MASTERTABLE-94b87b53-789f-4e15-9f26-07a3eff3148b</Name>
       <Tag></Tag>
-      <Width>719</Width>
-      <X>250.6318</X>
-      <Y>378.0211</Y>
+      <Width>1064</Width>
+      <X>457.6452</X>
+      <Y>471.6777</Y>
       <Selected>false</Selected>
       <Rotation>0</Rotation>
       <DrawMode>2</DrawMode>
@@ -9751,11 +9773,11 @@ Molar Entropy (Mixture)	-3.4083	0.026135	0.0497392	1.38679	21.6783	31.0771	kJ/[k
       </EnergyConnector>
       <SpecialConnectors />
       <Objects>
-        <S-03>false</S-03>
+        <S-03>true</S-03>
         <_x0033_-Methylhexane>true</_x0033_-Methylhexane>
         <Acetone>true</Acetone>
-        <S-01>false</S-01>
-        <S-02>false</S-02>
+        <S-01>true</S-01>
+        <S-02>true</S-02>
         <Water>true</Water>
         <Feed>true</Feed>
         <Solvent_x0020_Recovery>true</Solvent_x0020_Recovery>
@@ -9771,27 +9793,27 @@ Molar Entropy (Mixture)	-3.4083	0.026135	0.0497392	1.38679	21.6783	31.0771	kJ/[k
         <PROP_MS_6>false</PROP_MS_6>
         <PROP_MS_7>false</PROP_MS_7>
         <PROP_MS_8>false</PROP_MS_8>
-        <PROP_MS_9>true</PROP_MS_9>
-        <PROP_MS_10>true</PROP_MS_10>
+        <PROP_MS_9>false</PROP_MS_9>
+        <PROP_MS_10>false</PROP_MS_10>
         <PROP_MS_11>false</PROP_MS_11>
-        <PROP_MS_12>false</PROP_MS_12>
-        <PROP_MS_13>false</PROP_MS_13>
+        <PROP_MS_12>true</PROP_MS_12>
+        <PROP_MS_13>true</PROP_MS_13>
         <PROP_MS_14>false</PROP_MS_14>
         <PROP_MS_15>false</PROP_MS_15>
         <PROP_MS_16>false</PROP_MS_16>
         <PROP_MS_17>false</PROP_MS_17>
         <PROP_MS_18>false</PROP_MS_18>
         <PROP_MS_19>false</PROP_MS_19>
-        <PROP_MS_20>false</PROP_MS_20>
-        <PROP_MS_21>false</PROP_MS_21>
+        <PROP_MS_20>true</PROP_MS_20>
+        <PROP_MS_21>true</PROP_MS_21>
         <PROP_MS_22>false</PROP_MS_22>
         <PROP_MS_23>false</PROP_MS_23>
         <PROP_MS_24>false</PROP_MS_24>
         <PROP_MS_25>false</PROP_MS_25>
-        <PROP_MS_26>false</PROP_MS_26>
-        <PROP_MS_27>false</PROP_MS_27>
-        <PROP_MS_28>false</PROP_MS_28>
-        <PROP_MS_29>false</PROP_MS_29>
+        <PROP_MS_26>true</PROP_MS_26>
+        <PROP_MS_27>true</PROP_MS_27>
+        <PROP_MS_28>true</PROP_MS_28>
+        <PROP_MS_29>true</PROP_MS_29>
         <PROP_MS_30>false</PROP_MS_30>
         <PROP_MS_31>false</PROP_MS_31>
         <PROP_MS_32>false</PROP_MS_32>
@@ -9810,24 +9832,24 @@ Molar Entropy (Mixture)	-3.4083	0.026135	0.0497392	1.38679	21.6783	31.0771	kJ/[k
         <PROP_MS_45>false</PROP_MS_45>
         <PROP_MS_46>false</PROP_MS_46>
         <PROP_MS_47>false</PROP_MS_47>
-        <PROP_MS_48>false</PROP_MS_48>
-        <PROP_MS_49>false</PROP_MS_49>
+        <PROP_MS_48>true</PROP_MS_48>
+        <PROP_MS_49>true</PROP_MS_49>
         <PROP_MS_50>false</PROP_MS_50>
         <PROP_MS_51>false</PROP_MS_51>
         <PROP_MS_52>false</PROP_MS_52>
         <PROP_MS_53>false</PROP_MS_53>
         <PROP_MS_54>false</PROP_MS_54>
         <PROP_MS_55>false</PROP_MS_55>
-        <PROP_MS_56>false</PROP_MS_56>
-        <PROP_MS_57>false</PROP_MS_57>
+        <PROP_MS_56>true</PROP_MS_56>
+        <PROP_MS_57>true</PROP_MS_57>
         <PROP_MS_58>false</PROP_MS_58>
         <PROP_MS_59>false</PROP_MS_59>
         <PROP_MS_60>false</PROP_MS_60>
         <PROP_MS_61>false</PROP_MS_61>
         <PROP_MS_62>false</PROP_MS_62>
-        <PROP_MS_63>false</PROP_MS_63>
-        <PROP_MS_64>false</PROP_MS_64>
-        <PROP_MS_65>false</PROP_MS_65>
+        <PROP_MS_63>true</PROP_MS_63>
+        <PROP_MS_64>true</PROP_MS_64>
+        <PROP_MS_65>true</PROP_MS_65>
         <PROP_MS_66>false</PROP_MS_66>
         <PROP_MS_67>false</PROP_MS_67>
         <PROP_MS_68>false</PROP_MS_68>
@@ -9886,9 +9908,9 @@ Molar Entropy (Mixture)	-3.4083	0.026135	0.0497392	1.38679	21.6783	31.0771	kJ/[k
         <PROP_MS_103_x002F_Acetone>false</PROP_MS_103_x002F_Acetone>
         <PROP_MS_104_x002F_Acetone>false</PROP_MS_104_x002F_Acetone>
         <PROP_MS_105_x002F_Acetone>false</PROP_MS_105_x002F_Acetone>
-        <PROP_MS_106_x002F_Acetone>false</PROP_MS_106_x002F_Acetone>
+        <PROP_MS_106_x002F_Acetone>true</PROP_MS_106_x002F_Acetone>
         <PROP_MS_107_x002F_Acetone>false</PROP_MS_107_x002F_Acetone>
-        <PROP_MS_108_x002F_Acetone>false</PROP_MS_108_x002F_Acetone>
+        <PROP_MS_108_x002F_Acetone>true</PROP_MS_108_x002F_Acetone>
         <PROP_MS_109_x002F_Acetone>false</PROP_MS_109_x002F_Acetone>
         <PROP_MS_110_x002F_Acetone>false</PROP_MS_110_x002F_Acetone>
         <PROP_MS_111_x002F_Acetone>false</PROP_MS_111_x002F_Acetone>
@@ -9914,9 +9936,9 @@ Molar Entropy (Mixture)	-3.4083	0.026135	0.0497392	1.38679	21.6783	31.0771	kJ/[k
         <PROP_MS_103_x002F_Water>false</PROP_MS_103_x002F_Water>
         <PROP_MS_104_x002F_Water>false</PROP_MS_104_x002F_Water>
         <PROP_MS_105_x002F_Water>false</PROP_MS_105_x002F_Water>
-        <PROP_MS_106_x002F_Water>false</PROP_MS_106_x002F_Water>
+        <PROP_MS_106_x002F_Water>true</PROP_MS_106_x002F_Water>
         <PROP_MS_107_x002F_Water>false</PROP_MS_107_x002F_Water>
-        <PROP_MS_108_x002F_Water>false</PROP_MS_108_x002F_Water>
+        <PROP_MS_108_x002F_Water>true</PROP_MS_108_x002F_Water>
         <PROP_MS_109_x002F_Water>false</PROP_MS_109_x002F_Water>
         <PROP_MS_110_x002F_Water>false</PROP_MS_110_x002F_Water>
         <PROP_MS_111_x002F_Water>false</PROP_MS_111_x002F_Water>
@@ -9942,9 +9964,9 @@ Molar Entropy (Mixture)	-3.4083	0.026135	0.0497392	1.38679	21.6783	31.0771	kJ/[k
         <PROP_MS_103_x002F_3-methylhexane>false</PROP_MS_103_x002F_3-methylhexane>
         <PROP_MS_104_x002F_3-methylhexane>false</PROP_MS_104_x002F_3-methylhexane>
         <PROP_MS_105_x002F_3-methylhexane>false</PROP_MS_105_x002F_3-methylhexane>
-        <PROP_MS_106_x002F_3-methylhexane>false</PROP_MS_106_x002F_3-methylhexane>
+        <PROP_MS_106_x002F_3-methylhexane>true</PROP_MS_106_x002F_3-methylhexane>
         <PROP_MS_107_x002F_3-methylhexane>false</PROP_MS_107_x002F_3-methylhexane>
-        <PROP_MS_108_x002F_3-methylhexane>false</PROP_MS_108_x002F_3-methylhexane>
+        <PROP_MS_108_x002F_3-methylhexane>true</PROP_MS_108_x002F_3-methylhexane>
         <PROP_MS_109_x002F_3-methylhexane>false</PROP_MS_109_x002F_3-methylhexane>
         <PROP_MS_110_x002F_3-methylhexane>false</PROP_MS_110_x002F_3-methylhexane>
         <PROP_MS_111_x002F_3-methylhexane>false</PROP_MS_111_x002F_3-methylhexane>
@@ -10145,10 +10167,48 @@ Molar Entropy (Mixture)	-3.4083	0.026135	0.0497392	1.38679	21.6783	31.0771	kJ/[k
         <SortableItem>Molar Flow | DESC</SortableItem>
         <SortableItem>Volumetric Flow | ASC</SortableItem>
         <SortableItem>Volumetric Flow | DESC</SortableItem>
-        <SortableItem>Molar Enthalpy (Mixture) | ASC</SortableItem>
-        <SortableItem>Molar Enthalpy (Mixture) | DESC</SortableItem>
-        <SortableItem>Molar Entropy (Mixture) | ASC</SortableItem>
-        <SortableItem>Molar Entropy (Mixture) | DESC</SortableItem>
+        <SortableItem>Density (Vapor) | ASC</SortableItem>
+        <SortableItem>Density (Vapor) | DESC</SortableItem>
+        <SortableItem>Molecular Weight (Vapor) | ASC</SortableItem>
+        <SortableItem>Molecular Weight (Vapor) | DESC</SortableItem>
+        <SortableItem>Dynamic Viscosity (Vapor) | ASC</SortableItem>
+        <SortableItem>Dynamic Viscosity (Vapor) | DESC</SortableItem>
+        <SortableItem>Heat Capacity (Vapor) | ASC</SortableItem>
+        <SortableItem>Heat Capacity (Vapor) | DESC</SortableItem>
+        <SortableItem>Compressibility Factor (Vapor) | ASC</SortableItem>
+        <SortableItem>Compressibility Factor (Vapor) | DESC</SortableItem>
+        <SortableItem>Molar Fraction (Vapor) | ASC</SortableItem>
+        <SortableItem>Molar Fraction (Vapor) | DESC</SortableItem>
+        <SortableItem>Mass Fraction (Vapor) | ASC</SortableItem>
+        <SortableItem>Mass Fraction (Vapor) | DESC</SortableItem>
+        <SortableItem>Volumetric Fraction (Vapor) | ASC</SortableItem>
+        <SortableItem>Volumetric Fraction (Vapor) | DESC</SortableItem>
+        <SortableItem>Density (Liquid 1) | ASC</SortableItem>
+        <SortableItem>Density (Liquid 1) | DESC</SortableItem>
+        <SortableItem>Molar Weight (Liquid 1) | ASC</SortableItem>
+        <SortableItem>Molar Weight (Liquid 1) | DESC</SortableItem>
+        <SortableItem>Dynamic Viscosity (Liquid 1) | ASC</SortableItem>
+        <SortableItem>Dynamic Viscosity (Liquid 1) | DESC</SortableItem>
+        <SortableItem>Heat Capacity (Liquid 1) | ASC</SortableItem>
+        <SortableItem>Heat Capacity (Liquid 1) | DESC</SortableItem>
+        <SortableItem>Molar Fraction (Liquid 1) | ASC</SortableItem>
+        <SortableItem>Molar Fraction (Liquid 1) | DESC</SortableItem>
+        <SortableItem>Mass Fraction (Liquid 1) | ASC</SortableItem>
+        <SortableItem>Mass Fraction (Liquid 1) | DESC</SortableItem>
+        <SortableItem>Volumetric Fraction (Liquid 1) | ASC</SortableItem>
+        <SortableItem>Volumetric Fraction (Liquid 1) | DESC</SortableItem>
+        <SortableItem>Molar Fraction (Vapor) / Acetone | ASC</SortableItem>
+        <SortableItem>Molar Fraction (Vapor) / Acetone | DESC</SortableItem>
+        <SortableItem>Molar Fraction (Liquid 1) / Acetone | ASC</SortableItem>
+        <SortableItem>Molar Fraction (Liquid 1) / Acetone | DESC</SortableItem>
+        <SortableItem>Molar Fraction (Vapor) / Water | ASC</SortableItem>
+        <SortableItem>Molar Fraction (Vapor) / Water | DESC</SortableItem>
+        <SortableItem>Molar Fraction (Liquid 1) / Water | ASC</SortableItem>
+        <SortableItem>Molar Fraction (Liquid 1) / Water | DESC</SortableItem>
+        <SortableItem>Molar Fraction (Vapor) / 3-methylhexane | ASC</SortableItem>
+        <SortableItem>Molar Fraction (Vapor) / 3-methylhexane | DESC</SortableItem>
+        <SortableItem>Molar Fraction (Liquid 1) / 3-methylhexane | ASC</SortableItem>
+        <SortableItem>Molar Fraction (Liquid 1) / 3-methylhexane | DESC</SortableItem>
         <SortableItem>Custom</SortableItem>
       </SortableItems>
     </GraphicObject>
