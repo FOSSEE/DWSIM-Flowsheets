@@ -1,0 +1,18 @@
+{
+    "Simulation": {
+        "Title": "Used Lubricating Oil Simulation",
+        "UserDefinedCompounds": [
+            {
+                "Name": "UsedLubricatingOil",
+                "MolarWeight": 170.34,
+                "NormalBoilingPoint": 443.0,
+                "CriticalTemperature": 658.1,
+                "CriticalPressure": 1842000,
+                "AcentricFactor": 0.574,
+                "Formula": "C12H26",
+                "CASNumber": "112-40-3",
+                "PhaseAtSTP": "Liquid"
+            }
+        ]
+    }
+}
